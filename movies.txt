@@ -1,0 +1,100 @@
+1,The Shawshank Redemption,1994,9.7,33685
+2,The Godfather,1972,5.6,26030
+3,The Dark Knight,2008,8.2,36305
+4,The Godfather Part II,1974,5.1,45271
+5,12 Angry Men,1957,8.6,25186
+6,Schindler's List,1993,5.7,35378
+7,The Lord of the Rings: The Return of the King,2003,8.9,31623
+8,Pulp Fiction,1994,7.3,36182
+9,The Lord of the Rings: The Fellowship of the Ring,2001,9.2,31276
+10,The Good the Bad and the Ugly,1966,7.7,46566
+11,Forrest Gump,1994,8.7,22388
+12,Fight Club,1999,8.5,35280
+13,The Lord of the Rings: The Two Towers,2002,5.8,21452
+14,Inception,2010,8.4,40365
+15,Star Wars: Episode V - The Empire Strikes Back,1980,9.4,45315
+16,The Matrix,1999,7.8,38700
+17,Goodfellas,1990,5.6,31977
+18,One Flew Over the Cuckoo's Nest,1975,7.4,32423
+19,Sev7n,1995,7.6,34397
+20,Seven Samurai,1954,9.8,44833
+21,It's a Wonderful Life,1946,7.8,31241
+22,The Silence of the Lambs,1991,8.9,34722
+23,City of God,2002,9.7,24617
+24,Saving Private Ryan,1998,6.1,44201
+25,Life Is Beautiful,1997,6.4,37433
+26,Interstellar,2014,5.9,35466
+27,The Green Mile,1999,6.7,16138
+28,Star Wars: Episode IV - A New Hope,1977,5.9,18460
+29,Terminator 2: Judgment Day,1991,6.2,28869
+30,Back to the Future,1985,8.7,42500
+31,Spirited Away,2001,7.6,37408
+32,Psycho,1960,9.2,25893
+33,The Pianist,2002,9.5,43133
+34,Parasite,2019,7.8,11147
+35,Léon: The Professional,1994,6.4,24478
+36,The Lion King,1994,6.4,15668
+37,Gladiator,2000,9.4,27154
+38,American History X,1998,5.3,17438
+39,The Departed,2006,7.9,12908
+40,The Usual Suspects,1995,6.3,35755
+41,The Prestige,2006,5.1,30951
+42,Whiplash,2014,8.3,40792
+43,Casablanca,1942,6.5,12604
+44,Harakiri,1962,9.4,28813
+45,The Intouchables,2011,5.3,32993
+46,Grave of the Fireflies,1988,7.9,40338
+47,Modern Times,1936,6.6,29445
+48,Once Upon a Time in the West,1968,8.6,12918
+49,Rear Window,1954,5.9,29063
+50,Alien,1979,5.9,25693
+51,City Lights,1931,9.1,49164
+52,Cinema Paradiso,1988,5.8,46850
+53,Apocalypse Now,1979,8.4,14417
+54,Memento,2000,6.1,46994
+55,Indiana Jones and the Raiders of the Lost Ark,1981,6.4,14953
+56,Django Unchained,2012,9.7,46615
+57,WALL·E,2008,5.6,31905
+58,The Lives of Others,2006,8.6,33830
+59,Sunset Blvd.,1950,6.5,37164
+60,Paths of Glory,1957,8.4,37809
+61,The Great Dictator,1940,7.9,34321
+62,The Shining,1980,7.2,32988
+63,Avengers: Infinity War,2018,6.3,41455
+64,Witness for the Prosecution,1957,5.6,30798
+65,Aliens,1986,5.3,30858
+66,American Beauty,1999,8.5,37994
+67,Spider-Man: Into the Spider-Verse,2018,7.4,22170
+68,Dr. Strangelove,1964,7.4,17618
+69,The Dark Knight Rises,2012,7.1,46673
+70,Oldboy,2003,5.7,38908
+71,Joker,2019,5.2,28474
+72,Amadeus,1984,7.3,11602
+73,Inglourious Basterds,2009,6.6,28411
+74,Coco,2017,5.4,13928
+75,Toy Story,1995,7.2,14018
+76,Braveheart,1995,7.6,48368
+77,The Boat,1981,8.2,12666
+78,Avengers: Endgame,2019,8.1,49205
+79,Princess Mononoke,1997,5.9,36754
+80,Once Upon a Time in America,1984,7.4,18567
+81,Top Gun: Maverick,2022,8.1,21238
+82,Good Will Hunting,1997,6.9,37088
+83,Your Name.,2016,9.3,38807
+84,Requiem for a Dream,2000,9.4,10721
+85,Singin' in the Rain,1952,8.3,34560
+86,Toy Story 3,2010,9.2,16165
+87,3 Idiots,2009,9.4,22670
+88,High and Low,1963,7.1,21978
+89,Star Wars: Episode VI - Return of the Jedi,1983,6.8,32498
+90,Eternal Sunshine of the Spotless Mind,2004,8.1,15543
+91,2001: A Space Odyssey,1968,5.3,33245
+92,Capernaum,2018,7.8,47570
+93,Reservoir Dogs,1992,7.2,20159
+94,The Hunt,2012,9.9,45552
+95,Citizen Kane,1941,8.8,15825
+96,Come and See,1985,8.9,11656
+97,M,1931,8.2,20153
+98,Lawrence of Arabia,1962,5.9,26549
+99,North by Northwest,1959,6.6,43861
+100,Vertigo,1958,6.5,41159
